@@ -81,7 +81,7 @@ Check out my latest post 👇
      Oh, hello there, recruiters!
 -->
 
-### Employer?
+### Employer? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="25" height="25" />
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
@@ -89,7 +89,6 @@ Check out my latest post 👇
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-[![DIP-ME's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIP-ME)](https://github.com/DIP-ME/github-readme-stats)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 <!--
