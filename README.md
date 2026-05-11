@@ -58,7 +58,7 @@ Check out my latest post 👇
      Fast links to my socials!
 -->
 
-### Connect with me!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/daria-stanilevici/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
@@ -81,8 +81,8 @@ Check out my latest post 👇
      Oh, hello there, recruiters!
 -->
 
-### Employer? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="25" height="25" />
-> [!IMPORTANT]  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="25" height="25" /> 
+### Employer?
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
 
