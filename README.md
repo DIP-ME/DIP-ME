@@ -64,7 +64,7 @@ Check out my latest post 👇
 
 <div>
     <a href="https://www.linkedin.com/in/daria-stanilevici/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="./assets/linkedin.png" width="100%" alt="Linkedin"/>
     </a>
     <a href="https://dev.to/daria-stanilevici">
         <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
