@@ -61,9 +61,12 @@ Check out my latest post 👇
 
 ### Connect with me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 
+<head>
+  <base target="_blank">
+</head>
 
 <div>
-    <a href="https://www.linkedin.com/in/dip-chats/">
+    <a href="https://www.linkedin.com/in/dip-chats/" target="_blank">
         <img src="./assets/linkedin.png" width="37" height="37" alt="Linkedin"/>
     </a>
     <a href="https://diplabs.in">
