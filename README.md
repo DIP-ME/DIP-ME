@@ -14,7 +14,7 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Tech Stack/Skillset
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,githubactions,gitlab,mongodb,mysql,eclipse,java,js,nodejs,react,jenkins,cpp,npm,html,php,ai,androidstudio,ps,notion,androidstudio,postman,bash,cloudflare,linux,ubuntu,powershell,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,githubactions,gitlab,mongodb,mysql,eclipse,java,js,nodejs,react,jenkins,cpp,npm,html,php,ai,androidstudio,ps,notion,postman,bash,cloudflare,linux,ubuntu,powershell,vscode)](https://skillicons.dev)
 
 ### Upskilling Currently
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform)](https://skillicons.dev)
