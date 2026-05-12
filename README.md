@@ -22,7 +22,7 @@
 <!--
 -->
 
-### About Me
+### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Office%20Worker.png" alt="Office Worker" width="35" height="35" />
 
 
 Hi, I'm a QA Enginner turned into a Soultions Architect who is looking for some boost to launch myself into the cloud domain. Open to new challenges, technologies & change of seasons.
@@ -36,13 +36,16 @@ Hi, I'm a QA Enginner turned into a Soultions Architect who is looking for some 
 
 
 <div>
-    <a href="https://www.linkedin.com/in/dip-chats/">
-        <img src="./assets/linkedin.png" width="37" height="37" alt="Linkedin"/>
-   </a> &nbsp; 
+    <a href="https://www.linkedin.com/in/dip-chats/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="" height=""/>
+    </a> &nbsp;
         <a href="https://diplabs.in">
-        <img src="./assets/http.png" width="37" height="37" alt="Website"/>
+          <img src="  https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" width="" height=""/>
+    </a>
+     <a href="https://wa.link/fetdil">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="" height=""/>
+    </a>
 </div>
-
 <!--
      Oh, hello there, recruiters!
 -->
