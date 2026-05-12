@@ -22,7 +22,7 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,githubactions,gitlab,mongodb,mysql,eclipse,java,js,nodejs,react,jenkins,cpp,npm,postman,html,php,ai,androidstudio,ps,notion,androidstudio,bash,cloudflare,linux,ubuntu,powershell,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,githubactions,gitlab,mongodb,mysql,eclipse,java,js,nodejs,react,jenkins,cpp,npm,html,php,ai,androidstudio,ps,notion,androidstudio,postman,bash,cloudflare,linux,ubuntu,powershell,vscode)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform)](https://skillicons.dev)
@@ -36,20 +36,15 @@
 Hi, I'm a QA Enginner turned into a Soultions Architect who is looking for some boost to launch myself into the cloud domain. Open to new challenges, technologies & change of seasons.
 
 
-     Fast links to my socials!
-<!--
--->
+
 
 ### Connect with me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 
-<head>
-  <base target="_blank">
-</head>
 
 <div>
     <a href="https://www.linkedin.com/in/dip-chats/">
         <img src="./assets/linkedin.png" width="37" height="37" alt="Linkedin"/>
-   </a>
+   </a> &nbsp; 
         <a href="https://diplabs.in">
         <img src="./assets/http.png" width="37" height="37" alt="Website"/>
 </div>
