@@ -10,21 +10,13 @@
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
-
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
-</div>
-
-<!--
-     My mission, because I'm a superhero!
--->
 <!--
      This is the list of my skills and tools I am studying!
 -->
-### Main skills
+### Tech Stack/Skillset
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,githubactions,gitlab,mongodb,mysql,eclipse,java,js,nodejs,react,jenkins,cpp,npm,html,php,ai,androidstudio,ps,notion,androidstudio,postman,bash,cloudflare,linux,ubuntu,powershell,vscode)](https://skillicons.dev)
 
-### Studying
+### Upskilling Currently
 [![Learning](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform)](https://skillicons.dev)
 
 <!--
@@ -36,7 +28,9 @@
 Hi, I'm a QA Enginner turned into a Soultions Architect who is looking for some boost to launch myself into the cloud domain. Open to new challenges, technologies & change of seasons.
 
 
-
+<!--
+     Just Socializing
+-->
 
 ### Connect with me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 
@@ -54,7 +48,7 @@ Hi, I'm a QA Enginner turned into a Soultions Architect who is looking for some 
 -->
 
 
-### Employer? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="35" height="35" /> 
+### Employ Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="35" height="35" /> 
 
 > <a href="https://drive.google.com/file/d/1A6w0773thmyOXtjcELcMfEZQoa6_4toz/view?usp=sharing" download>Download my Resume</a>
 
