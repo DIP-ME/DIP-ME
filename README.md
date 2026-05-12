@@ -22,42 +22,23 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,js,nodejs,react,jenkins,cpp,cs,html,css,bootstrap,php,androidstudio,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,githubactions,gitlab,mongodb,mysql,eclipse,java,js,nodejs,react,jenkins,cpp,npm,postman,html,php,ai,androidstudio,ps,notion,androidstudio,bash,cloudflare,linux,ubuntu,powershell,vscode)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform)](https://skillicons.dev)
 
 <!--
-     I also have my own blog with useful information, check it out ^^
 -->
 
-### Publications
-<div> 
-  <a href="https://medium.com/@daria-stanilevici">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
-  </a>
-  <a href="https://dev.to/daria-stanilevici">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
-  </a>
-</div>
-
-You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
-I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
-
-<!--
-Check out my latest post 👇  
-
-<a href="https://medium.com/@daria-stanilevici" target="_blank">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
-</a>
+### About Me
 
 
-[![My latest Medium post](https://miro.medium.com/v2/resize:fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
+Hi, I'm a QA Enginner turned into a Soultions Architect who is looking for some boost to launch myself into the cloud domain. Open to new challenges, technologies & change of seasons.
 
 
      Fast links to my socials!
+<!--
 -->
-
 
 ### Connect with me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 
@@ -66,11 +47,11 @@ Check out my latest post 👇
 </head>
 
 <div>
-    <a href="https://www.linkedin.com/in/dip-chats/" target="_blank">
+    <a href="https://www.linkedin.com/in/dip-chats/">
         <img src="./assets/linkedin.png" width="37" height="37" alt="Linkedin"/>
-    </a>
-    <a href="https://diplabs.in">
-        <img src="./assets/http.png" width="37" height="37" alt="Linkedin"/>
+   </a>
+        <a href="https://diplabs.in">
+        <img src="./assets/http.png" width="37" height="37" alt="Website"/>
 </div>
 
 <!--
