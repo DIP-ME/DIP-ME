@@ -66,18 +66,8 @@ Check out my latest post 👇
     <a href="https://www.linkedin.com/in/dip-chats/">
         <img src="./assets/linkedin.png" width="37" height="37" alt="Linkedin"/>
     </a>
-    <a href="https://dev.to/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
-    </a>
-    <a href="https://www.credly.com/users/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
-    </a>
-    <a href="https://www.artstation.com/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Art Station" width="33" height="33"/>
-    </a>
-    <a href="https://medium.com/@daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
-    </a>
+    <a href="https://diplabs.in">
+        <img src="./assets/http.png" width="37" height="37" alt="Linkedin"/>
 </div>
 
 <!--
@@ -87,18 +77,19 @@ Check out my latest post 👇
 
 ### Employer? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="35" height="35" /> 
 
+> <a href="https://drive.google.com/file/d/1A6w0773thmyOXtjcELcMfEZQoa6_4toz/view?usp=sharing" download>Download my Resume</a>
 
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
-
+<br>
+<br>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
 -->
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Thank_You%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=𝕋𝕙𝕒𝕟𝕜%20𝕐𝕠𝕦%20&width=1080&height=150)](https://github.com/Akshay090/svg-banners)
