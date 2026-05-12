@@ -41,7 +41,7 @@ Hi, I'm a QA Enginner turned into a Soultions Architect who is looking for some 
     </a> &nbsp;
         <a href="https://diplabs.in">
           <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" width="" height=""/>
-    </a>
+    </a> &nbsp;
      <a href="https://wa.link/fetdil">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="" height=""/>
     </a>
