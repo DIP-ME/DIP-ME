@@ -69,3 +69,6 @@ Hi, I'm a QA Enginner turned into a Soultions Architect who is looking for some 
      Thanks for being my guest <3
 -->
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=𝕋𝕙𝕒𝕟𝕜%20𝕐𝕠𝕦%20&width=1080&height=150)](https://github.com/Akshay090/svg-banners)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+
+
