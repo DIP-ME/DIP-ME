@@ -10,9 +10,7 @@
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
-<br>
- 𝔽𝕣𝕠𝕞 𝕔𝕒𝕥𝕔𝕙𝕚𝕟𝕘 𝕓𝕦𝕘𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕔𝕠𝕕𝕖 𝕥𝕠 𝕔𝕒𝕥𝕔𝕙𝕚𝕟𝕘 𝕝𝕠𝕘𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕔𝕝𝕠𝕦𝕕 ☁️ 
-<br>
+
 <!--
      This is the list of my skills and tools I am studying!
 -->
@@ -32,6 +30,8 @@ Hi 👋🏻 I’m Dip....I started my tech journey as a QA engineer working on E
 
 Apart from the usual boring work stuff 🥱 I enjoy tweaking Linux and Android (roms, firmware, kernels, ui/ux, shizuku, gnome), Love playing around with AI on experimenting it's capabilities, Sometimes getting hooked to some Inide platform puzzler or some sci-fi movies or animations. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
+<br>
+ 𝔽𝕣𝕠𝕞 𝕔𝕒𝕥𝕔𝕙𝕚𝕟𝕘 𝕓𝕦𝕘𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕔𝕠𝕕𝕖 𝕥𝕠 𝕔𝕒𝕥𝕔𝕙𝕚𝕟𝕘 𝕝𝕠𝕘𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕔𝕝𝕠𝕦𝕕 ☁️ 
 <br>
 <!--
      Just Socializing
