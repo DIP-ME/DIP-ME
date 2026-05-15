@@ -25,8 +25,9 @@
 ### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="40" height="40" /> 
 
 
-Hi 👋🏻 I’m Dip....I started my tech journey as a QA engineer working on ETL, RDBMS & Data Modeling mostly over the past 5+ years and now currently transitioning into Cloud Computing and DevOps with a strong focus on AWS, Docker, Kubernetes, and Infrastructure Automation. I enjoy building hands-on projects, deploying scalable applications, and documenting my learning journey publicly on Linkedin.
-Apart from the usual boring work stuff 🫩 I enjoy tweaking Linux and Android (roms, firmware, kernels, ui/ux, shizuku, gnome), Love playing around with AI on experimenting it's capabilities, Sometimes getting hooked to some Inide platform puzzler or some sci-fi movies or animations. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
+Hi 👋🏻 I’m Dip....I started my tech journey as a QA engineer working on ETL, RDBMS & Data Modeling mostly over the past 5+ years and now currently transitioning into Cloud Computing and DevOps with a strong focus on AWS, Docker, Kubernetes, and Infrastructure Automation. I enjoy building hands-on projects, deploying scalable applications, and documenting my learning journey publicly on Linkedin. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+
+Apart from the usual boring work stuff 🥱 I enjoy tweaking Linux and Android (roms, firmware, kernels, ui/ux, shizuku, gnome), Love playing around with AI on experimenting it's capabilities, Sometimes getting hooked to some Inide platform puzzler or some sci-fi movies or animations. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
 
 <!--
@@ -52,7 +53,7 @@ Apart from the usual boring work stuff 🫩 I enjoy tweaking Linux and Android (
 -->
 
 
-### Employ Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Office%20Worker.png" alt="Office Worker" width="40" height="40" />
+### Employ Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Office%20Worker%20Light%20Skin%20Tone.png" alt="Man Office Worker Light Skin Tone" width="40" height="40" />
 
 > <a href="https://drive.google.com/uc?export=download&id=1ADgGa5iBBfpbkDioKvVG5ArglMb7JaGB" download>Download my Resume</a>
 
