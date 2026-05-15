@@ -25,7 +25,8 @@
 ### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Person Raising Hand Light Skin Tone" width="40" height="40" /> 
 
 
-Hi, I'm a QA Enginner turned into a Soultions Architect who is looking for some boost to launch myself into the cloud domain. Open to new challenges, technologies & change of seasons.
+Hi 👋🏻 I’m Dip....I started my tech journey as a QA engineer working on ETL, RDBMS & Data Modeling mostly over the past 5+ years and now currently transitioning into Cloud Computing and DevOps with a strong focus on AWS, Docker, Kubernetes, and Infrastructure Automation. I enjoy building hands-on projects, deploying scalable applications, and documenting my learning journey publicly on Linkedin.
+Apart from the usual boring work stuff 🫩 I enjoy tweaking Linux and Android (roms, firmware, kernels, ui/ux, shizuku, gnome), Love playing around with AI on experimenting it's capabilities, Sometimes getting hooked to some Inide platform puzzler or some sci-fi movies or animations. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
 
 <!--
@@ -69,6 +70,6 @@ Hi, I'm a QA Enginner turned into a Soultions Architect who is looking for some 
      Thanks for being my guest <3
 -->
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=𝕋𝕙𝕒𝕟𝕜%20𝕐𝕠𝕦%20&width=1080&height=150)](https://github.com/Akshay090/svg-banners)
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=DIP-ME&style=flat-square)
 
 
