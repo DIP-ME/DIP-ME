@@ -12,7 +12,7 @@
 -->
 
 <!--
-     This is the list of my skills and tools I am studying!
+     This is the list of my skills and things that I am studying!
 -->
 ### Tech Stack/Skillset
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,githubactions,gitlab,mongodb,mysql,eclipse,java,js,nodejs,react,jenkins,cpp,npm,html,php,ai,androidstudio,ps,notion,postman,bash,cloudflare,linux,ubuntu,powershell,vscode)](https://skillicons.dev)
@@ -52,7 +52,7 @@ Apart from the usual boring work stuff 🥱 I enjoy tweaking Linux and Android (
     </a>
 </div>
 <!--
-     Oh, hello there, recruiters!
+     Hello there, recruiters!
 -->
 
 
