@@ -31,7 +31,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 Apart from the usual boring work stuff <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yawning%20Face.png" alt="Yawning Face" width="20" height="20" /> I enjoy Tweaking Linux, Customizing Windows and Modding Android (roms, firmware, kernels, ui/ux, shizuku, emulation), Love playing around with Agentic AI experimenting it's capabilities. Occasionally getting hooked to some Inide platform puzzler, some sci-fi movies or animations. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Light%20Skin%20Tone.png" alt="Sign of the Horns Light Skin Tone" width="20" height="20" />
 
 <br>
- 𝔽𝕣𝕠𝕞 𝕔𝕒𝕥𝕔𝕙𝕚𝕟𝕘 𝕓𝕦𝕘𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕔𝕠𝕕𝕖 𝕥𝕠 𝕔𝕒𝕥𝕔𝕙𝕚𝕟𝕘 𝕝𝕠𝕘𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕔𝕝𝕠𝕦𝕕<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud%20with%20Snow.png" alt="Cloud with Snow" width="30" height="30" /> 
+ 𝔽𝕣𝕠𝕞 𝕔𝕒𝕥𝕔𝕙𝕚𝕟𝕘 𝕓𝕦𝕘𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕔𝕠𝕕𝕖 𝕥𝕠 𝕔𝕒𝕥𝕔𝕙𝕚𝕟𝕘 𝕝𝕠𝕘𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕔𝕝𝕠𝕦𝕕<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud%20with%20Snow.png" alt="Cloud with Snow" width="20" height="20" /> 
 
 <br>
 <!--
