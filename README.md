@@ -28,7 +28,7 @@
 
 Hi 👋🏻 I’m Dip....I started my tech journey as a QA engineer working on ETL, RDBMS & Data Modeling mostly over the past 5+ years and now currently transitioning into Cloud Computing and DevOps with a strong focus on AWS, Docker, Kubernetes, and Infrastructure Automation. I enjoy building hands-on projects, deploying scalable applications, and documenting my learning journey publicly on Linkedin. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
-Apart from the usual boring work stuff 🥱 I enjoy Tweaking Linux, Customizing Windows and Modding Android (roms, firmware, kernels, ui/ux, shizuku, emulation), Love playing around with AI on experimenting it's capabilities, Sometimes getting hooked to some Inide platform puzzler or some sci-fi movies or animations. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
+Apart from the usual boring work stuff 🥱 I enjoy Tweaking Linux, Customizing Windows and Modding Android (roms, firmware, kernels, ui/ux, shizuku, emulation), Love playing around with Agentic AI experimenting it's capabilities. Occasionally getting hooked to some Inide platform puzzler, some sci-fi movies or animations. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
 <br>
  𝔽𝕣𝕠𝕞 𝕔𝕒𝕥𝕔𝕙𝕚𝕟𝕘 𝕓𝕦𝕘𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕔𝕠𝕕𝕖 𝕥𝕠 𝕔𝕒𝕥𝕔𝕙𝕚𝕟𝕘 𝕝𝕠𝕘𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕔𝕝𝕠𝕦𝕕 ☁️ 
